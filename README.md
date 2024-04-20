@@ -22,10 +22,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-<h1>
-    <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=abu0717&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=192841&theme=dark" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu0717&hide_title=true&layout=compact&bg_color=192841&theme=dark" />
-    </a>
-</h1>
+
 
 -------
